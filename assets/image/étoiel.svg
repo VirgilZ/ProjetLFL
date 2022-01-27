@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="55px" height="55px" viewBox="0 0 55 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Star</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FCE293" offset="0%"></stop>
+            <stop stop-color="#B8933A" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="maquette" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1_home_twitch_v2" transform="translate(-1327.000000, -1066.000000)" stroke="url(#linearGradient-1)" stroke-width="4">
+            <g id="Group-5" transform="translate(1327.000000, 1066.000000)">
+                <path d="M40.1443903,46.6501074 L35.1585854,32.3966614 L47.7384948,23.7827432 L32.3208976,23.9573208 L27.654054,9.50750352 L22.9872104,23.9573208 L7.56961319,23.7827432 L20.1495226,32.3966614 L15.1637177,46.6501074 L27.654054,37.6653158 L40.1443903,46.6501074 Z" id="Star-2"></path>
+            </g>
+        </g>
+    </g>
+</svg>
